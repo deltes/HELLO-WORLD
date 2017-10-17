@@ -1,2 +1,4 @@
 # HELLO-WORLD
-meu comeco.
+
+comecando a programar e usar o github!
+
